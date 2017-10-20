@@ -1,5 +1,5 @@
 # GZxing
-#图片缩放控件
+# 图片缩放控件
 
 ![image](https://github.com/GuoZhiHao9396/GZxing/blob/master/app/src/main/res/raw/test.gif)
 
@@ -19,7 +19,7 @@ Add it in your root build.gradle at the end of repositories:
      }
 ```
 
-#使用介绍
+# 使用介绍
 
 1.创建Activity继承QCodeActivity
 ```java
@@ -73,7 +73,7 @@ Add it in your root build.gradle at the end of repositories:
     <uses-permission android:name="android.permission.VIBRATE"/>
 ```
 
-#License
+# License
 ```text
 Copyright 2017 ZhiHao Guo
 
